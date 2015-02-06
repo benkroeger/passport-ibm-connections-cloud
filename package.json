@@ -1,0 +1,42 @@
+{
+  "name": "passport-ibm-connections-cloud",
+  "version": "1.0.0",
+  "description": "Passport oAuth 2.0 Strategy for IBM Connections Cloud",
+
+  "author": {
+    "name": "Benjamin Kroeger",
+    "email": "benjamin.kroeger@gmail.com"
+  },
+  "repository": "benkroeger/passport-ibm-connections-cloud",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "passport-ibm-connections-cloud",
+    "ibm",
+    "passport",
+    "oauth",
+    "connections",
+    "cloud",
+    "auth",
+    "authentication"
+  ],
+  "dependencies": {
+    "passport-oauth2": "benkroeger/passport-oauth2#v1.1.3"
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0.0",
+    "time-grunt": "^1.0.0",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
