@@ -1,6 +1,6 @@
 {
   "name": "passport-ibm-connections-cloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport oAuth 2.0 Strategy for IBM Connections Cloud",
 
   "author": {
