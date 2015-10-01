@@ -4,6 +4,7 @@
 
 > Passport oAuth 2.0 Strategy for IBM Connections Cloud
 
+# !!!Versions prior to 1.0.2 are DEPRECATED and won't be installable due to dependencies no longer available!!!
 
 ## Install
 
