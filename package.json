@@ -1,8 +1,7 @@
 {
   "name": "passport-ibm-connections-cloud",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Passport oAuth 2.0 Strategy for IBM Connections Cloud",
-
   "author": {
     "name": "Benjamin Kroeger",
     "email": "benjamin.kroeger@gmail.com"
